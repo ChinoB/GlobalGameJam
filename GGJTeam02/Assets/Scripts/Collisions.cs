@@ -13,6 +13,9 @@ public class Collisions : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        //katana and mouse (drag and drop)
+        //katana and mallet
+        //katana and kamado
+        //katana and water
     }
 }

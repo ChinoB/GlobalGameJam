@@ -18,4 +18,8 @@ public class Katana : MonoBehaviour
             //change color to red
         }
     }
+    void extend()
+    {
+        //increase length
+    }
 }
