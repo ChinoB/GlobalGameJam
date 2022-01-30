@@ -28,7 +28,7 @@ namespace CollideCheck
 
 		// FixedUpdate is called once per frame
 		void FixedUpdate() {
-			move();
+			//move();
 		}
 
 		
