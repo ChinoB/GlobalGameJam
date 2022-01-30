@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Collisions : MonoBehaviour
 {
+    public GameObject katana;
+    public GameObject hammer1;
+    public GameObject hammer2;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,4 +21,13 @@ public class Collisions : MonoBehaviour
         //katana and kamado
         //katana and water
     }
+    /*
+    void OnCollisionEnter(Collision collision)
+    {
+        /*
+        if (collision.gameObject.name == "katana")
+        {
+          
+    }*/
 }
+
