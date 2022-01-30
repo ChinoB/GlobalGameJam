@@ -31,10 +31,12 @@ namespace CollideCheck
 			move();
 		}
 
+		
 		/**
 		 * 矢印キーで動かす関数(テスト用)
 		 * Function to move with arrow keys(for test)
 		 */
+		/*
 		private void move()
 		{
 			if (Input.GetKey(KeyCode.UpArrow))
@@ -53,8 +55,8 @@ namespace CollideCheck
 			{
 				playerTrans.Translate(Vector3.back * DIFF);
 			}
-		}
-
+		}*/
+		
 
 
 		/* オブジェクト同士の衝突判定 */
